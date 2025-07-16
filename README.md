@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asya02-langchain-mcp-adapters-example-badge.png)](https://mseep.ai/app/asya02-langchain-mcp-adapters-example)
+
 # langchain-mcp-adapters-example
 
 Simple MCP example for GigaChat
